@@ -17,6 +17,8 @@
       Version: 1.40.2
     - Name: NerdHelper
       Version: 1.6.4
+    - Name: SorbetHelper
+      Version: 1.9.2
     - Name: VortexHelper
       Version: 1.2.19
     - Name: bitsbolts
