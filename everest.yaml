@@ -7,6 +7,8 @@
       Version: 1.51.33
     - Name: CommunalHelper
       Version: 1.25.3
+    - Name: CrystallineHelper
+      Version: 1.17.2
     - Name: DJMapHelper
       Version: 1.13.4
     - Name: Everest
