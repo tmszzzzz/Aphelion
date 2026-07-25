@@ -1,6 +1,8 @@
 - Name: 0_1_0--Aphelion
   Version: 0.0.1
   Dependencies:
+    - Name: AdventureHelper
+      Version: 1.6.0
     - Name: CaeruleaHelper
       Version: 1.10.0
     - Name: ChroniaHelper
@@ -29,6 +31,8 @@
       Version: 1.40.2
     - Name: NerdHelper
       Version: 1.6.4
+    - Name: ProgHelper
+      Version: 1.5.4
     - Name: SorbetHelper
       Version: 1.9.2
     - Name: VivHelper
