@@ -1,0 +1,5 @@
+tmszzzzz_Aphelion= 星河
+
+tmszzzzz_Aphelion_0_Aphelion= 远日
+
+poem_tmszzzzz_Aphelion_0_Aphelion_A= 星云烈焰

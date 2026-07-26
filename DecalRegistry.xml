@@ -1,0 +1,212 @@
+<decals>
+  <decal path="tmszzzzz/Aphelion/big_crystal_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-20" y="32" width="40" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/big_crystal_b">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-20" y="32" width="40" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_base_bot_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_base_top_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_bot_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_mid_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_mid_b">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_mid_c">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_mid_d">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/collumn_top_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-32" y="32" width="64" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_b">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="24" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_c">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="24" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_collumn_bot">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="8" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_collumn_mid">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="8" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_collumn_top">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="8" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_reflection">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-40" y="48" width="80" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_rock_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-32" y="24" width="64" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_shard_a">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-8" y="12" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_shard_b">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-8" y="12" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_shard_c">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-12" y="16" width="24" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_shard_d">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/crystal_shard_e">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-12" y="16" width="24" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/Crystal_PurpleA">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-32" y="24" width="64" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/Crystal_PurpleB">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-24" y="24" width="48" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/Crystal_PurpleC">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="16" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/Crystal_PurpleD">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-16" y="16" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/Crystal_PurpleE">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/Crystal_PurpleF">
+    <bloom offsetX="0" offsetY="0" alpha="0.5" radius="20"/>
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockA">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockB">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockC">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockD">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockE">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockF">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/FloatyRockG">
+    <floaty/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_a">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_a_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_b">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_b_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_c">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_c_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_d">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_d_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_e">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_e_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_f">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_f_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_g">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_g_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_h">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_h_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_i">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_i_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_j">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/rubble_j_dark">
+    <staticMover x="-8" y="8" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteA">
+    <staticMover x="-32" y="-28" width="64" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteB">
+    <staticMover x="-24" y="-28" width="48" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteC">
+    <staticMover x="-16" y="-20" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteD">
+    <staticMover x="-16" y="-20" width="32" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteE">
+    <staticMover x="-8" y="-20" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteF">
+    <staticMover x="-8" y="-12" width="16" height="4"/>
+  </decal>
+  <decal path="tmszzzzz/Aphelion/StalactiteG">
+    <staticMover x="-8" y="-12" width="16" height="4"/>
+  </decal>
+</decals>

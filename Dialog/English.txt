@@ -1,0 +1,5 @@
+tmszzzzz_Aphelion= Galaxy
+
+tmszzzzz_Aphelion_0_Aphelion= Aphelion
+
+poem_tmszzzzz_Aphelion_0_Aphelion_A= NEBULA BLAZE
