@@ -5,6 +5,8 @@
       Version: 1.6.0
     - Name: CaeruleaHelper
       Version: 1.10.0
+    - Name: CherryHelper
+      Version: 1.8.2
     - Name: ChroniaHelper
       Version: 1.51.33
     - Name: CommunalHelper
